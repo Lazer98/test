@@ -8,9 +8,9 @@ function App() {
   let num1 = 5;
   let num2 = 8;
 
-  return (
+  return ( 
     <div className="App">
-      <AppStart />
+      <AppStart user={user} />
       <hr/>
       <h1 className='text-danger'>Welcome to react!</h1>
      </div>
