@@ -10,7 +10,7 @@ function App() {
 
   return ( 
     <div className="App">
-      <AppStart user={user} />
+      <AppStart user={user}  num1={num1} num2={num2}/>
       <hr/>
       <h1 className='text-danger'>Welcome to react!</h1>
      </div>
