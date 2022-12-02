@@ -12,6 +12,7 @@ export default function AppStart(props) {
       <p>{user}</p>
       <p>sum: {num1+num2}</p>
       <p>substraction: {num2-num1}</p>
+      <p>multiplication: {num2*num1}</p>
     </div>
   )
 }
