@@ -11,6 +11,7 @@ export default function AppStart(props) {
     <div className='container'>
       <p>{user}</p>
       <p>sum: {num1+num2}</p>
+      <p>substraction: {num2-num1}</p>
     </div>
   )
 }
