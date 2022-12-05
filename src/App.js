@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <AppStart user={user}  num1={num1} num2={num2}/>
       <hr/>
-      <h1 className='text-danger'>Welcome to react!</h1>
+      <h1 className='text-danger'>Welcome to the new branch which should be updated to the main!</h1>
      </div>
 
   
